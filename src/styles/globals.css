@@ -74,14 +74,14 @@
     font-synthesis-weight: none;
     text-rendering: optimizeLegibility;
     }
-    #custom-nav-links {
+    #custom-nav-links a {
     color: #222222;
     }
     
-    #custom-nav-links:hover {
+    #custom-nav-links a:hover {
       color: #ffffff;
     }
-    #custom-nav-links:active {
+    #custom-nav-links a:active {
       color: #666666;
     }
 }
