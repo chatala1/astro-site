@@ -73,5 +73,15 @@
     /* font-feature-settings: "rlig" 1, "calt" 1; */
     font-synthesis-weight: none;
     text-rendering: optimizeLegibility;
-  }
+    }
+    #custom-nav-links {
+    color: #222222;
+    }
+    
+    #custom-nav-links:hover {
+      color: #ffffff;
+    }
+    #custom-nav-links:active {
+      color: #666666;
+    }
 }
