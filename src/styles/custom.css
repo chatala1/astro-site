@@ -1,0 +1,10 @@
+#custom-nav-links {
+  color: #222222;
+}
+
+#custom-nav-links:hover {
+  color: #ffffff;
+}
+#custom-nav-links:active {
+  color: #666666;
+}
