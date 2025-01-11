@@ -9,5 +9,5 @@
   color: #666666;
 }
 
-.flex-auto {padding: 2.5rem 0rem;}
+.flex-auto {padding: 2.5rem 0rem; max-width: 980px; min-width: 700px;}
 .text-3xl {font-weight: bold;}
